@@ -226,5 +226,3 @@ print(q1.to_string(index=False))
 
 conn.close()
 print(f"\n✅ DONE! Database saved: {db_path}")
-print(f"✅ Open with DB Browser for SQLite")
-print(f"✅ Upload all files in '{OUTPUT_DIR}/' to GitHub")
