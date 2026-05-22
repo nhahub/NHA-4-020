@@ -172,4 +172,4 @@ python build_star_schema.py
 ```
 
 ### 4. Open Power BI Dashboard
-
+[View Dashboard PDF](./Dashboard Final.pdf)
